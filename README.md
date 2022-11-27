@@ -1,4 +1,4 @@
-# string to emoj
+# string to emoji
 string to emoji는 python으로 작성되었습니다.
 
 # 사용방법
