@@ -15,6 +15,7 @@ string to emoji는 python으로 작성되었습니다.
 ![image](https://user-images.githubusercontent.com/96653318/204119060-eb0ac6ea-2c47-42ac-b807-77de36fb2e16.png)
 
 # 업데이트
-### v0.0.1 ##### 2022년 11월 27일 오후 1시 25분
+### v0.0.1 
+##### 2022년 11월 27일 오후 1시 25분
 ##### String to emoji개발완료
 ----------
